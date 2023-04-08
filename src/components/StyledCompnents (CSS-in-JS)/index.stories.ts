@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/react';
 import MoviePoster from '.';
 import { MOVIE } from '../../constants';
 const meta = {
-  title: 'Movie Cards/Styled Components',
+  title: 'Movie Cards/Styled Components (CSS in JS)',
   component: MoviePoster,
   argTypes: {
     rating: {
